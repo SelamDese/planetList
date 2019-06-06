@@ -1,0 +1,11 @@
+C:\Users\milliyon\workspace\backend\csharp\planetList\bin\Debug\netcoreapp2.2\planetList.deps.json
+C:\Users\milliyon\workspace\backend\csharp\planetList\bin\Debug\netcoreapp2.2\planetList.runtimeconfig.json
+C:\Users\milliyon\workspace\backend\csharp\planetList\bin\Debug\netcoreapp2.2\planetList.runtimeconfig.dev.json
+C:\Users\milliyon\workspace\backend\csharp\planetList\bin\Debug\netcoreapp2.2\planetList.dll
+C:\Users\milliyon\workspace\backend\csharp\planetList\bin\Debug\netcoreapp2.2\planetList.pdb
+C:\Users\milliyon\workspace\backend\csharp\planetList\obj\Debug\netcoreapp2.2\planetList.csprojAssemblyReference.cache
+C:\Users\milliyon\workspace\backend\csharp\planetList\obj\Debug\netcoreapp2.2\planetList.csproj.CoreCompileInputs.cache
+C:\Users\milliyon\workspace\backend\csharp\planetList\obj\Debug\netcoreapp2.2\planetList.AssemblyInfoInputs.cache
+C:\Users\milliyon\workspace\backend\csharp\planetList\obj\Debug\netcoreapp2.2\planetList.AssemblyInfo.cs
+C:\Users\milliyon\workspace\backend\csharp\planetList\obj\Debug\netcoreapp2.2\planetList.dll
+C:\Users\milliyon\workspace\backend\csharp\planetList\obj\Debug\netcoreapp2.2\planetList.pdb
